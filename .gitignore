@@ -1,0 +1,16 @@
+node_modules/
+
+dist/
+*.tsbuildinfo
+
+logs
+*.log
+npm-debug.log*
+
+.idea/
+.vscode/
+.git/
+
+# Env files
+.env
+.env.local
